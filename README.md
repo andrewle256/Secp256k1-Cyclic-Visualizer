@@ -1,6 +1,6 @@
 # Secp256k1-Cyclic-Visualizer
 Visualizing secp256k1's cyclic group structure in Bitcoin ECDSA using group theory and Python.
-# secp256k1 Group Structure Visualization: Cryptographic Foundations
+# secp256k1 Group Structure Visualization
 
 Pure Python implementation and visualization of the group structure of the **secp256k1** elliptic curve, used in **Bitcoin** and **Ethereum** for cryptographic key generation and digital signatures. This project bridges **abstract algebra**, **finite fields**, and **real-world cryptography** through computational mathematics and visual exploration.
 
